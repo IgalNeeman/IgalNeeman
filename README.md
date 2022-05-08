@@ -1,5 +1,5 @@
 
-<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/logo.gif" width="40" height="40" />
+<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/logo.gif" width="600" height="800" />
 
 
 
