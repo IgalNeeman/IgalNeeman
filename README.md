@@ -1,5 +1,5 @@
 
-![Alt Text](https://github.com/IgalNeeman/IgalNeeman/blob/main/logo.gif)
+<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/logo.gif" width="40" height="40" />
 
 
 
