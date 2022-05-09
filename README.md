@@ -15,3 +15,4 @@ My name is Igal Neeman  and I'm a Technical recruiter 👋
 🌱 I am a head hunter from israel, and i am looking for developers with 2+ years experience in software development from israel Only.
 
 ⚡Send me your cv to: igal.neeman@gmail.com 😃⚡
+<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/logo.gif" width="800" height="400" />
