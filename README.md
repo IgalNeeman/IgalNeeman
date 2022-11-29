@@ -2,7 +2,11 @@
 <a href="https://bit.ly/3ThhyYi">
 <img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/X.jpg" width="1200" height="250" />
  </a>
-
+ 
+ <a href="https://bit.ly/3ThhyYi">
+<img src="[https://github.com/IgalNeeman/IgalNeeman/blob/main/X.jpg](https://github.com/IgalNeeman/IgalNeeman/blob/main/join-us-on-telegram-button-icon.png?raw=true
+)" width="1200" height="250" />
+ </a>
 
 
 My name is Igal Neeman  and I'm a Technical recruiter 👋
