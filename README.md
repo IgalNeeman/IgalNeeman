@@ -1,4 +1,4 @@
-My name is Igal Neeman  and I'm a Technical recruiter 👋
+My name is Igal Neeman  and I'm a Recruiter 👋
 🔭 I’m currently working at Svt.jobs
 🌱 I’m currently working on project with Puppeteer
 👯 I’m looking to collaborate on Automation
