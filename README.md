@@ -1,13 +1,3 @@
-
-<a href="https://JobSababa.com">
-<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/X.jpg" width="1200" height="250" />
- </a>
- 
- <a href="https://t.me/israelJobsVip">
-<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/join-us-on-telegram-button-icon.png" width="1200" height="250" />
- </a>
-
-
 My name is Igal Neeman  and I'm a Technical recruiter 👋
 🔭 I’m currently working at Svt.jobs
 🌱 I’m currently working on project with Puppeteer
