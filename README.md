@@ -13,6 +13,4 @@ My name is Igal Neeman  and I'm a Technical recruiter 👋
 <a href="https://JobSababa.com">
 <img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/company.png" width="100%" height="100%" />
  </a>
-<a href="https://JobSababa.com">
-<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/pexels-linda-ellershein-3127883.jpg" width="800" height="400" />
- </a>
+
