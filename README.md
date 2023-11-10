@@ -1,6 +1,6 @@
 
 <a href="https://JobSababa.com">
-<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/company.png" width="1200" height="250" />
+<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/company.png" width="100%" height="100%" />
  </a>
 <a href="https://JobSababa.com">
 <img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/X.jpg" width="1200" height="250" />
