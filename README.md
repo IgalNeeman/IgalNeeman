@@ -10,7 +10,7 @@ My name is Igal Neeman  and I'm a Recruiter 👋
 🌱 I am a head hunter from israel, and i am looking for developers with 2+ years experience in software development from israel Only.
 
 ⚡Checkout my website 😃⚡
-<a href="https://JobSababa.com">
+<a href="https://sababajobs.co.il">
 <img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/company.png" width="100%" height="100%" />
  </a>
 
