@@ -11,6 +11,6 @@ My name is Igal Neeman  and I'm a Recruiter 👋
 
 ⚡Checkout my website 😃⚡
 <a href="https://sababajobs.co.il">
-<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/company.png" width="100%" height="100%" />
+<img src="https://github.com/IgalNeeman/IgalNeeman/blob/main/company.jpg" width="100%" height="100%" />
  </a>
 
